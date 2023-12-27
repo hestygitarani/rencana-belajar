@@ -2,3 +2,5 @@ Rencana Belajar
 - Konsep Odoo
 - XML
 - Python
+- JavaScript
+- Sass
