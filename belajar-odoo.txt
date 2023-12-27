@@ -1,0 +1,3 @@
+Rencana Belajar Odoo
+1. Pahami konsep Odoo
+2. Belajar dari YouTube Odoo Mates
